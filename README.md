@@ -47,7 +47,7 @@ This ensures that if the batch was done in the least amount of time possible, th
 | Dennis   | 6200 mL         |
 
 *Charlie has had a very productive week, producing 10,800 mL of soda, while Mac and Dennis were tied for the least amount of volume produced at 6200 mL.*
-
+![Insert Chart Here](images/Total_Volume_Per_Operator.png)
 ### Leading Downtime Factors
 
 The top 3 leading downtime factors were:
@@ -57,7 +57,7 @@ The top 3 leading downtime factors were:
 
 *Recommendations are provided at the end of this proposal for further suggestions on how to reduce downtime at the plant.*
 
-![Insert Chart Here](chart.png)
+![Insert Chart Here](images/Leading_Downtime_Factors.png)
 
 ### Downtime Analysis by Product Flavor
 
@@ -83,9 +83,9 @@ An analysis of each operator’s downtime factor that contributed the most downt
 | Dennis   | Machine Adjustment  | 120 min  |
 | Charlie  | Machine Adjustment  | 118 min  |
 | Dee      | Machine Adjustment  | 79 min   |
-
 *Mac struggles with Batch Change (130 minutes of downtime), while the rest of the operators primarily struggle with Machine Adjustment. Management should consider improved training or alternative methods to make machine adjustments more efficient.*
 
+![Insert Chart Here](images/Downtime_Description_Per_Operator.png)
 ## Recommendations
 
 ### Implement Standardized Machine Adjustment Procedures
